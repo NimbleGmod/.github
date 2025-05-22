@@ -1,1 +1,1 @@
-![hat](assets/logo.png)
+![hat](../assets/logo.png)
